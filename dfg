@@ -1,0 +1,369 @@
+[33mcommit 15c46815d78bd87155297ee0871af33e24778d97[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Benoît Jeaurond <bensonj@hotmail.ca>
+Date:   Tue Sep 11 17:37:43 2018 -0400
+
+    Added my information
+
+[33mcommit 7071173cdf548699278c41c359b9ea147ace98b9[m
+Author: Benoît Jeaurond <bensonj@hotmail.ca>
+Date:   Tue Sep 11 17:07:58 2018 -0400
+
+    Removed file created by accident
+
+[33mcommit 877fee818ce65ece6f4aaeb68d39cf609120d073[m
+Author: Benoît Jeaurond <bensonj@hotmail.ca>
+Date:   Tue Sep 11 17:03:30 2018 -0400
+
+    Added my information
+
+[33mcommit 8b0449ba652b1538e4c5881e6467b899645dcf79[m
+Author: Benoît Jeaurond <bensonj@hotmail.ca>
+Date:   Tue Sep 11 17:01:49 2018 -0400
+
+    Initial commit
+
+[33mcommit 40737f740f3fbe44e29531946d92dd4ebc8a5859[m
+Author: Miguel Garzón <mgarzon@uottawa.ca>
+Date:   Sat Sep 8 21:52:26 2018 -0400
+
+    Update README.MD
+
+[33mcommit 9c162459204e20cf2897dce033a1d1b059845be4[m
+Author: Miguel Garzón <mgarzon@uottawa.ca>
+Date:   Thu Sep 6 11:58:43 2018 -0400
+
+    Update README.MD
+
+[33mcommit cf5549c4b35fc9a754ee2ed936ee5cd4024624fc[m
+Author: Miguel Garzón <mgarzon@uottawa.ca>
+Date:   Thu Sep 6 11:25:33 2018 -0400
+
+    Update README.MD
+
+[33mcommit b6e27f57c4905e501771ea7b23d3ca306a363e77[m
+Author: Miguel Garzón <mgarzon@uottawa.ca>
+Date:   Thu Sep 6 11:22:06 2018 -0400
+
+    Update README.md
+
+[33mcommit f320b92530cd00034cd048b074610d2d611e2c69[m
+Author: Cédric Clément <cedric-c@users.noreply.github.com>
+Date:   Mon Nov 6 08:55:43 2017 -0500
+
+    updated readme
+    
+    added link to new presentation
+
+[33mcommit 1b9f6ca54806d61553ed348353a1dd5cbc0491d2[m
+Author: Cédric Clément <cedric-c@users.noreply.github.com>
+Date:   Fri Oct 27 12:06:22 2017 -0400
+
+    added link to next lab
+    
+    added presentation for next lab
+
+[33mcommit 076ba35c660115700fc9cf298bc10c3dfdeb82d6[m
+Author: Cédric Clément <cedric-c@users.noreply.github.com>
+Date:   Tue Oct 3 21:44:59 2017 -0400
+
+    Update README.md
+
+[33mcommit 11ae51bcf8bda4da981851dcd6febb77ff16697e[m
+Author: Cédric Clément <cedric-c@users.noreply.github.com>
+Date:   Tue Oct 3 21:44:06 2017 -0400
+
+    Update README.md
+
+[33mcommit 7920814ea1372dd28cc2c58461ba448b7b77dc56[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 22 19:00:45 2017 -0400
+
+    Added link to presentation for AS
+
+[33mcommit c0c433ca47fb844a801d2f54f3345ce24118939b[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 15 09:18:40 2017 -0400
+
+    Moved presentation
+
+[33mcommit ba4538ac99e512a0ee2a7c2528e7245f6f85f23e[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 15 08:56:25 2017 -0400
+
+    Added code example
+
+[33mcommit fc6222eae288867a6d55837b1936840ada61e914[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 15 08:55:01 2017 -0400
+
+    Added code example
+
+[33mcommit 6d75664d7b3de91b044dc8eb3bb94fe1f88c66d6[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 15 08:42:23 2017 -0400
+
+    Moved presented
+
+[33mcommit 2caced07596e3efff2bacb55a145ae6616ad0714[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 15 08:38:20 2017 -0400
+
+    New Presentation Test
+
+[33mcommit 547d1b626f504c08f569676a6e01d9437e9b7a86[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Thu Sep 14 20:39:07 2017 -0400
+
+    Typo
+
+[33mcommit 2bd0d2d52224e0dc261cf8d8c4d5bfed15f8893f[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Thu Sep 14 20:36:55 2017 -0400
+
+    Added list of tips and common errors
+
+[33mcommit d99c394d31322406e678b3b05bcbe2189d14068c[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Thu Sep 14 20:27:32 2017 -0400
+
+    WIP: Added Game.js
+
+[33mcommit 150d194493bccb55a583af3a9c0ba684646152f0[m
+Merge: 858ad23 9e135da
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Thu Sep 14 20:26:35 2017 -0400
+
+    Merge branch 'master' of https://github.com/cedric-c/seg2505_2017
+
+[33mcommit 858ad2349560bfc4a1dd90dc6b3cc9b85c884d57[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Thu Sep 14 20:26:21 2017 -0400
+
+    WIP
+
+[33mcommit 9e135dae425c19e9a0224586bf8d64e02d7d7991[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Wed Sep 13 16:06:31 2017 -0400
+
+    Mon Premier Commit
+
+[33mcommit f2ebea7f41eb7cceb612c96c73969e4f2432eae1[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Sat Sep 9 20:48:32 2017 -0400
+
+    thebest is now better
+
+[33mcommit 7fe823d7b31dd2691a739b0253f37de049b48f28[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Sat Sep 9 20:31:57 2017 -0400
+
+    updated README
+
+[33mcommit 7b2aa30e68afc7cda50bb9e86e9098900c427352[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Sat Sep 9 20:27:05 2017 -0400
+
+    updated readme
+
+[33mcommit 77be4e17cfd2cad8813c6f3838887ff63002a9c1[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Sat Sep 9 20:23:04 2017 -0400
+
+    updated readme
+
+[33mcommit bddbf85f9406a4b7a75880087cd69965542b376b[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Sat Sep 9 00:25:25 2017 -0400
+
+    wip
+
+[33mcommit d36cd10de5c0d99c5b13f850fa6b355f40bdd4d5[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Sat Sep 9 00:01:42 2017 -0400
+
+    WIP
+
+[33mcommit d5a456abc37e5eee2ff3d0d8ab8832f40ca94dcf[m[33m ([m[1;31morigin/features[m[33m)[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 23:36:59 2017 -0400
+
+    WIP
+
+[33mcommit f904e199780b650c2ebcae5a73d5647b3f484cea[m
+Merge: 7a63e46 f96d6e2
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 23:31:58 2017 -0400
+
+    Test Merge branch 'features' of https://github.com/cedric-c/seg2505_2017 into features
+
+[33mcommit f96d6e2cc93a3444762968b6533f5bb069bf5bb9[m
+Author: ced <cedric-c@users.noreply.github.com>
+Date:   Fri Sep 8 23:30:24 2017 -0400
+
+    Update PersonInfo1.java
+
+[33mcommit 7a63e469f00d5840b1eaf23fff8dfd0acd98d2db[m
+Author: ced <cedric-c@users.noreply.github.com>
+Date:   Fri Sep 8 23:29:31 2017 -0400
+
+    Update PersonInfo5.java
+
+[33mcommit d5529bddd223e68aa87c8f9fec8691f0e070cfdd[m
+Author: ced <cedric-c@users.noreply.github.com>
+Date:   Fri Sep 8 23:29:17 2017 -0400
+
+    Update PersonInfo4.java
+
+[33mcommit cce9ece4074065ad2a25851c937ddde75b930a3b[m
+Author: ced <cedric-c@users.noreply.github.com>
+Date:   Fri Sep 8 23:29:03 2017 -0400
+
+    Update PersonInfo3.java
+
+[33mcommit 2a107adcccbd82badf594da18716c86f8e73f052[m
+Author: ced <cedric-c@users.noreply.github.com>
+Date:   Fri Sep 8 23:28:48 2017 -0400
+
+    Update PersonInfo2.java
+
+[33mcommit 7b63bb50df0a0a7d44740f279c755acd82e407d4[m
+Author: ced <cedric-c@users.noreply.github.com>
+Date:   Fri Sep 8 23:28:31 2017 -0400
+
+    Update PersonInfo1.java
+
+[33mcommit ea4ecd0c890b8310be7abc87a71ee3cb2944bbd2[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 21:34:26 2017 -0400
+
+    wip
+
+[33mcommit 3283c3b6e3e31c8d3f42574a9d1d89aecb531f62[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 21:31:45 2017 -0400
+
+    wip
+
+[33mcommit aec907672d8ea6e0fe1f313222b04039d6c581e9[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 21:30:45 2017 -0400
+
+    wip
+
+[33mcommit 894400906763dfaefef3a6f2841395b62eb30a46[m
+Merge: 33509d4 1819eb1
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 21:27:40 2017 -0400
+
+    wip
+
+[33mcommit 1819eb1b92e631f1d23bbdd729035fd7b45753e0[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 21:24:44 2017 -0400
+
+    wip
+
+[33mcommit 33509d4211bb41194841d2bf722a3649ace2eed4[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 21:12:28 2017 -0400
+
+    wip
+
+[33mcommit 8a7231a4acf0c4f374147abab1147f66ec9b1577[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:59:58 2017 -0400
+
+    wip
+
+[33mcommit 9a4b37515fc0f94cdc6490a21fa396bc377dd0ab[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:55:20 2017 -0400
+
+    wip
+
+[33mcommit 097df5f16dbb9887d1f98bd72403b521b805d926[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:50:10 2017 -0400
+
+    WIP
+
+[33mcommit 87c839da1bd28f7c3e80f779e9f63a5173f690b0[m
+Merge: 1fcd83b 79606b1
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:41:51 2017 -0400
+
+    Test
+    Merge branch 'features'
+
+[33mcommit 79606b1cc13daeb0652b340d3a48b3bc39b42feb[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:41:42 2017 -0400
+
+    test
+
+[33mcommit 1fcd83bfb9d3ca5a06bb21b99570fa44b9460efc[m
+Merge: 1e2d2f0 4ddcd07
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:35:40 2017 -0400
+
+    Test merge. Merge branch 'features'
+
+[33mcommit 4ddcd074153c4d3becfe34670a3a8695d633c9b8[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:34:36 2017 -0400
+
+    updated readme
+
+[33mcommit 1e2d2f0f8881838dbd8dafcb0072a67cdef56e7b[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:29:29 2017 -0400
+
+    updated readme
+
+[33mcommit fc5fc2f43dd1d40839c0eace0d3b82cc2dccbfda[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:27:40 2017 -0400
+
+    updated readme
+
+[33mcommit afa4e57994fff49fa1d7340e80e0a5edfef5824b[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 20:18:50 2017 -0400
+
+    WIP
+
+[33mcommit 93917a47849ed5fd38acd2598d92ab9564a168f4[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 19:50:57 2017 -0400
+
+    This may cause some problems if merged with master...
+
+[33mcommit a69006760553d39a216427c1630a1d57374b53e9[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 09:40:11 2017 -0400
+
+    WIP
+
+[33mcommit 589c5213315a8862a3529a41817d9d05480b386e[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 09:38:39 2017 -0400
+
+    Added README for Lab 1
+
+[33mcommit 94d2ace57726b24b5e33973ee60d3997b5254ff4[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 09:37:16 2017 -0400
+
+    WIP
+
+[33mcommit 7a84de73df18cf6dcb6b103f0721e5fe77ec4674[m
+Author: Cédric Clément <cclem054@uottawa.ca>
+Date:   Fri Sep 8 09:35:50 2017 -0400
+
+    init
+
+[33mcommit 2e963d302228f163994df751830c51dffa2f3981[m
+Author: ced <cedric-c@users.noreply.github.com>
+Date:   Fri Sep 8 09:27:16 2017 -0400
+
+    Initial commit
