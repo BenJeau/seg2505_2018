@@ -1,7 +1,9 @@
 public class PersonInfo4 {
 
     public static String firstName = "Aymen";
-    public static String lastName = "Mhamdii";
+
+    public static String lastName = "Mhamdi";
+
     public static int studentNo = 300034572;
     public static String description = "software engineering student";
     
